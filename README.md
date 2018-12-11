@@ -1,2 +1,2 @@
 # hello-world
-intro
+This is quite obviously me relearning how to use GitHub.
